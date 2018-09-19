@@ -19,6 +19,9 @@ body{
     text-shadow: midnightblue 2px 2px 4px;
 
 }
+.dvi{
+    float: left;
+}
 .adrian {
     font-family: monospace;
     font-size: 2em;
@@ -30,8 +33,44 @@ body{
     color:darkblue;
 
 }
+
+.dani {
+    font-family: monospace;
+    font-size: 2em;
+    font-style: oblique;
+    font-weight: 50;
+    font-variant: inherit;
+    text-align: left;
+    text-decoration: inherit;
+    color:darkblue;
+    
+
+}
+
+.img1 {
+    float:left;
+    margin:10px; 
+    width:10%; 
+    height:10%;
+
+
+}
+
+.img2 {
+    float:left;
+    margin:10px; 
+    margin-top:20px;
+    width:15%; 
+    height:15%;
+
+
+
+}
+
 p {
     font-family: serif;
     font-size: 130%;
     text-transform: capitalize;
+
 }
+
