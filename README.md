@@ -19,12 +19,6 @@ Hemos creado la pagina web de una empresa de software ficticia llamada *New Worl
 ## Programas Usados
 
 * Brackets
-=======
-
-## Programas Usados 
-
-Brackets
->>>>>>> b3892fa9dae838599bdc39e471c2c485b2ae7200
 
 ## Autores
 
