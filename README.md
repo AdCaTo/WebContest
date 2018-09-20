@@ -14,7 +14,7 @@ Hemos creado la pagina web de una empresa de software ficticia llamada *New Worl
     * Pagina la cual se puede contactar directamente con los empleados y saber un poco mas de ellos
 * Trabajos
     * Trabajos hechos o en los que ha participado la empresa
-<<<<<<< HEAD
+
     
 ## Programas Usados
 
