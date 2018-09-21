@@ -19,6 +19,7 @@ Hemos creado la pagina web de una empresa de software ficticia llamada *New Worl
 ## Programas Usados
 
 * Brackets
+* Sublime Text 3
 
 ## Autores
 
